@@ -3,7 +3,16 @@
 - Create react App
 - Installed and configured tailwind/css package
 - header
-- Login form
+- Login form/ Sign Up form
+- Routing in the app
+- form validation and useRef() hook
+- firebase setup
+- deploying the app to the production
+- create a sign up a user in firebase
+- use redux to store user login details
+- UpdateProfile api call
+- Implemented Sign Out
+- fetch movies from TMDB
 
 # Features
 
