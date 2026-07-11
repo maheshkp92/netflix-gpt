@@ -29,6 +29,7 @@
 - embedd the youtube video
 - make it auto play and mute
 - tailwind class to make it awesome main container
+- Build Secondary container
 
 # Features
 
