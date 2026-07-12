@@ -5,7 +5,7 @@ import { addTrailerVideo } from "../utils/movieSlice";
 import useMovieTrailer from "../customHooks/useMovieTrailer";
 
 const VideoBackground = ({ movieId }) => {
-  const trailerVideo = useSelector((store) => store.movies.addTrailerVideo);
+  const trailerVideo = useSelector((store) => store.movies.trailerVideo);
 
   useMovieTrailer(movieId);
 

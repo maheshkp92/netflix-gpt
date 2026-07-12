@@ -35,7 +35,7 @@
 - GPT Search bar
 - GPT Search page
 - Multi Lang feature on GPT Search Page
-- Integrate GPT APIs
+- Integrate GPT APIs - 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
 
 # Features
 
