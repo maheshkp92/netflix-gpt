@@ -30,6 +30,12 @@
 - make it auto play and mute
 - tailwind class to make it awesome main container
 - Build Secondary container
+- GPT Search feature
+- add link in header
+- GPT Search bar
+- GPT Search page
+- Multi Lang feature on GPT Search Page
+- Integrate GPT APIs
 
 # Features
 
